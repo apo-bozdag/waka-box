@@ -75,7 +75,7 @@ const bar_styles = [
   "▯▮",
   "◯⬤",
   "⚪⚫"
-];
+]; 
 
 function unicodeProgressBar(p, style = 14, min_size = 20, max_size = 20) {
   let d;
